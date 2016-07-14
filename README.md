@@ -2,6 +2,8 @@
 
 The assignment asks for use of Gulp, but as I don't have any significant experience with Gulp, and the contract is to use Angular2, I figured I would take advantage of the new Angular2 CLI, which provides some help in scaffolding, building and development.
 
+![Screen shot](https://github.com/mikkelking/a2app/raw/master/Screen%20Shot%202016-07-14%20at%2010.11.53%20AM.png)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
 
 ## Getting started
